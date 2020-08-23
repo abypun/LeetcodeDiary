@@ -56,5 +56,3 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Si
     return solution1(nums1, nums1Size, nums2, nums2Size);
 }
 // @lc code=end
-
- 
